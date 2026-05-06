@@ -76,5 +76,5 @@ By completing these modules, I have gained a deep understanding of:
 | **Development**       | Environment Setup, Salesforce CLI Authorization, Solution Analysis  |
 | **UI/UX**             | Lightning Experience Navigation, Mobile/Desktop Parity              |
 
-👤 Author
+##👤 Author
 Sampatharao Mahesh Kumar 
