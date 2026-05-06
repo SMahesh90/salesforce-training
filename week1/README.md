@@ -77,4 +77,5 @@ By completing these modules, I have gained a deep understanding of:
 | **UI/UX**             | Lightning Experience Navigation, Mobile/Desktop Parity              |
 
 ##👤 Author
-Sampatharao Mahesh Kumar 
+
+**Sampatharao Mahesh Kumar** Salesforce Developer Trainee
