@@ -43,3 +43,22 @@ Lead
    ↓
    
 Account + Contact + Opportunity
+
+---
+
+“Why Do So Many Companies Use Salesforce? Explaining the ROI of CRM”
+
+### Learning Points:
+ 
+* Why companies use Salesforce
+
+Companies use Salesforce to improve the sales,manage customers,Provide Customer Support,automate business process and analyze the data in one platform.
+  
+* Real business problems solved using Salesforce
+
+- Managing customer data in one place  
+- Tracking sales and leads  
+- Automating repetitive tasks  
+- Improving customer support  
+- Sending marketing campaigns  
+- Generating business reports and analytics  
