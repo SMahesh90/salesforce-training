@@ -50,7 +50,7 @@ Account + Contact + Opportunity
 
 ### Learning Points:
  
-* Why companies use Salesforce
+## Why companies use Salesforce
 
 Companies use Salesforce to improve the sales,manage customers,Provide Customer Support,automate business process and analyze the data in one platform.
   
