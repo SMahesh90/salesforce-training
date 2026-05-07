@@ -38,5 +38,7 @@ Basic Salesforce Objects are
 **Salesforce Data model example**
 
 Lead
+
    ↓
+   
 Account + Contact + Opportunity
