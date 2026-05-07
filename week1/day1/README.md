@@ -1,10 +1,14 @@
 **What Salesforce is?**
 
 It is designed to help you sell,manage ,service,market,analyze and connect with customers.
+
 ---
+
 **What CRM means**
 
 CRM(Customer RelationShip Management) is a software or tool that helps the bussiness to track their customers.
+
+---
 
 **What a Salesforce Developer does**
 
