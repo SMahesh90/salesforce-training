@@ -35,3 +35,8 @@ Basic Salesforce Objects are
 
 **2) Custom Objects** - Objects created by users for specific business needs.
 
+**Salesforce Data model example**
+
+Lead
+   ↓
+Account + Contact + Opportunity
