@@ -18,6 +18,8 @@ A salesforce developer makes the salesforce work according to the customer need.
 6) Data Modeling
 7) Agile Methodoligies
 
+---
+
 **Basic Salesforce objects and data model**
 
 In Salesforce, objects are like tables in a database that store information.
@@ -26,5 +28,6 @@ A data model is simply the way these objects are connected to each other.
 
 Basic Salesforce Objects are 
 **1) Standard Objects** - These are already provided by the Salesforce.
+
 **2) Custom Objects** - Objects created by users for specific business needs.
 
