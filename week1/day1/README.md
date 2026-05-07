@@ -31,6 +31,7 @@ In Salesforce, objects are like tables in a database that store information.
 A data model is simply the way these objects are connected to each other.
 
 Basic Salesforce Objects are 
+
 **1) Standard Objects** - These are already provided by the Salesforce.
 
 **2) Custom Objects** - Objects created by users for specific business needs.
