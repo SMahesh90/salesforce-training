@@ -54,7 +54,7 @@ Account + Contact + Opportunity
 
 Companies use Salesforce to improve the sales,manage customers,Provide Customer Support,automate business process and analyze the data in one platform.
   
-* Real business problems solved using Salesforce
+## Real business problems solved using Salesforce
 
 - Managing customer data in one place  
 - Tracking sales and leads  
