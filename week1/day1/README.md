@@ -26,8 +26,6 @@ Companies use Salesforce to improve the sales,manage customers,Provide Customer 
 
 ## 3) Account , Contact , Oppurtunity
 
----
-
 ## What is Account ?
 
 An Account is a company or organization you are doing business with.
