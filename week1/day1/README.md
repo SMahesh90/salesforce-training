@@ -46,17 +46,14 @@ An Opportunity tracks a potential sale or "pending deal."
 
 ## 4) Real business problems solved using Salesforce
 
-### Account
-Represents the **College** as the organization or institution.
+Event System Oppurtunity
 
-### Contact
-Represents the **Student** who is applying for admission.
-
-### Lead
-Represents a **prospective student** who has expressed interest in joining the college but has not yet completed the admission process.
-
-### Opportunity
-Represents the **student admission process** for a particular course, indicating a potential successful enrollment.  
+| Salesforce Object | Event System Example |
+|------------------|----------------------|
+| **Account** | Event Organizing Company |
+| **Lead** | Person interested in attending the event |
+| **Contact** | Registered attendee |
+| **Opportunity** | Event ticket booking or sponsorship deal |
 
 ---
 
