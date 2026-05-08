@@ -87,20 +87,6 @@ Salesforce organizes data similarly to a spreadsheet or database.
 
 ---
 
-## Summary
-
-Salesforce is not just a CRM platform—it is a flexible ecosystem that provides:
-
-- Ready-to-use business applications
-- Customization capabilities
-- Workflow automation
-- AI-powered productivity tools
-- Unified customer data management
-
-This flexibility allows organizations to tailor Salesforce to their unique business processes.
-
----
-
 ### Flow To build an New Custom Field 
 
 choose the playground -> Click on Setup -> Click on Object Manager -> click on New -> Select Currency -> click on Next -> Enter the field Label
