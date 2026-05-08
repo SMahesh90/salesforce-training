@@ -62,3 +62,9 @@ Companies use Salesforce to improve the sales,manage customers,Provide Customer 
 - Improving customer support  
 - Sending marketing campaigns  
 - Generating business reports and analytics  
+
+---
+
+## TrailHead Profile
+
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/50c0d02d-09e2-45d5-8b72-f41dec0ce3d0" />
