@@ -59,4 +59,5 @@ Event System Oppurtunity
 
 ## 5) TrailHead Profile
 
-<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/50c0d02d-09e2-45d5-8b72-f41dec0ce3d0" />
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/b37044fd-e5c1-4baa-9a8c-e9d89e4cf1d8" />
+
