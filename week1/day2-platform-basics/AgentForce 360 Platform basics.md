@@ -1,6 +1,6 @@
 ### Module - Unlock Business Success with Salesforce Data Platform
 
-**Summary**
+### Summary
 
 # Salesforce Platform Overview
 
