@@ -1,10 +1,10 @@
-**What Salesforce is?**
+**1) What Salesforce is?**
 
 It is designed to help you sell,manage ,service,market,analyze and connect with customers.
 
 ---
 
-**What CRM means**
+**2) What CRM means**
 
 CRM(Customer RelationShip Management) is a software or tool that helps the bussiness to track their customers.
 
@@ -53,8 +53,28 @@ Account + Contact + Opportunity
 ## Why companies use Salesforce
 
 Companies use Salesforce to improve the sales,manage customers,Provide Customer Support,automate business process and analyze the data in one platform.
-  
-## Real business problems solved using Salesforce
+
+## 3) Account , Contact , Oppurtunity
+
+---
+
+## What is Account ?
+
+An Account is a company or organization you are doing business with.
+
+## What is Contact ?
+
+A Contact is an individual person associated with an Account.
+
+**What it tracks:** First/Last name, email, phone number, and job title.
+
+## What is Oppurtunity ?
+
+An Opportunity tracks a potential sale or "pending deal."
+
+---
+
+## 4) Real business problems solved using Salesforce
 
 - Managing customer data in one place  
 - Tracking sales and leads  
