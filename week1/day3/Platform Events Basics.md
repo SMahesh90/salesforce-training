@@ -44,17 +44,27 @@ External systems can publish events by treating the event like a standard Salesf
 **Request Body Example:**
 code
 **JSON**
+
 {
+
    "Order_Number__c" : "ABC-789",
+   
    "Has_Shipped__c" : true
+   
 }
 
 **Success Response (Status 201 Created):**
+
 code
+
 **JSON**
+
 {
+
   "id" : "e00xx0000000001AAA",
+  
   "success" : true,
+  
   "errors" : [
        {
             "statusCode": "OPERATION ENQUEUED",
