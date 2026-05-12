@@ -114,6 +114,15 @@ Stores details about individuals speaking at the events.
 +---------+ +--------------+ | Email            |
                              +------------------+
 
+```
+
 ---
 
-## 4 Formula Fields
+### 4. Formula Fields 
+
+## Available Tickets
+
+**Formula** = Total_Capacity__c - Tickets_Sold__c
+
+**Explanation:** Automatically calculates how many tickets are left for an event. This prevents staff from selling more tickets than the venue can hold.
+
