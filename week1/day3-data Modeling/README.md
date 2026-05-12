@@ -144,9 +144,9 @@ Stores details about individuals speaking at the events.
 
 **Why this exists:**
 
-*) Salesforce needs a way to distinguish built-in (standard) components from user-created ones.
+Salesforce needs a way to distinguish built-in (standard) components from user-created ones.
 
-*) __c literally means custom.
+__c literally means custom.
 
 ---
 
