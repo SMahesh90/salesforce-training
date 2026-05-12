@@ -113,3 +113,7 @@ Stores details about individuals speaking at the events.
 |Expertise| | Attendee ID  | | Last Name        |
 +---------+ +--------------+ | Email            |
                              +------------------+
+
+---
+
+## 4 Formula Fields
