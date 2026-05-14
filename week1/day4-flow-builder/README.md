@@ -55,3 +55,13 @@ In a manual system, if a guest cancels at 10:00 PM, the seat stays empty until a
 Automation is the backbone of modern enterprise systems because it ensures scalability and consistency. As an event management business grows from 50 guests to 5,000, manual processes become a bottleneck that leads to burnout and errors. 
 
 Automation allows the system to handle the "heavy lifting" of data entry and status updates. This frees up human employees to focus on high-value tasks, such as networking with sponsors or improving the onsite event experience. Ultimately, it drives efficiency, reduces operational costs, and provides a faster, more professional service to the end customer.
+
+---
+
+## Trailblazer Profile
+
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/5c6ffdbd-97d5-43f1-8bbd-af6b85e22765" />
+
+
+
+---
