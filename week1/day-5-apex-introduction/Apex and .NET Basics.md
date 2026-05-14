@@ -1,4 +1,4 @@
-## Map .NET Concepts to the Lightning Platform
+## 1.Map .NET Concepts to the Lightning Platform
 
 	public class AccountUtils {
 	
@@ -14,7 +14,7 @@
 
 ---
 
-##  Understand Execution Context
+##  2.Understand Execution Context
 
 ## AccountTriggerHandler
 
