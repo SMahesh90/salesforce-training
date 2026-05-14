@@ -4,7 +4,7 @@
 
 public class AccountTriggerHandler {
     
-     public static void CreateAccounts (List<Account> accList)
+   public static void CreateAccounts (List<Account> accList)
      {
          for(Account acc : accList)
          {
@@ -24,11 +24,8 @@ public class AccountTriggerHandler {
 trigger AccountTrigger on Account (before insert) 
 
 {
-
      if (Trigger.isBefore && Trigger.isInsert) {
-	 
-			AccountTriggerHandler.CreateAccounts(Trigger.new);
-			
+			AccountTriggerHandler.CreateAccounts(Trigger.new);		
 		}	
 		
 }
@@ -38,10 +35,8 @@ trigger AccountTrigger on Account (before insert)
 ## AccountTriggerTest
 
 @isTest
-public class AccountTriggerTest {
-    
-    @isTest static void TestCreate200Records(){
-        
+public class AccountTriggerTest { 
+    @isTest static void TestCreate200Records(){ 
         List<Account> accts = new List<Account>();
         for(Integer i=0; i < 200; i++) {
             Account acct = new Account(Name='Test Account ' + i, BillingState = 'CA');
