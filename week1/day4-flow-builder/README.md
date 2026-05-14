@@ -32,13 +32,7 @@ This flow runs automatically in the background when a record is created, updated
 ## 4. Flow Diagram Logic
 **Selected Automation:** Auto-Assign "Early Bird" Discount
 
-**Logic Steps for Flowchart:**
-*   **Start Node:** Record-Triggered Flow (Object: Registration | Condition: Record is Created).
-*   **Decision Diamond:** Is the current date > 30 days before Event Start Date?
-    *   **Path A (Yes):** Use an Assignment element to apply a 20% discount to the registration fee.
-    *   **Path B (No):** Proceed with the Standard Price.
-*   **Update Element:** Save the final price to the Registration record.
-*   **End Node:** Flow execution completes.
+<img width="603" height="702" alt="image" src="https://github.com/user-attachments/assets/7e58ed95-455e-459f-a546-387dce550737" />
 
 ---
 
