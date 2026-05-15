@@ -12,7 +12,7 @@ Apex is a strongly typed, object-oriented programming language developed by Sale
 
 ---
 
-## 2. Comparisons: Automation & Customization
+## 2. Comparisons: 
 
 ### Flow vs. Apex
 | Feature | Flow | Apex |
@@ -129,3 +129,10 @@ As an Event Management System scales from a local meetup to a global conference,
 **Scalability:** Handling thousands of concurrent registrations without data errors.
 **Connectivity:** Seamlessly integrating with external marketing, payment, and logistics tools via APIs.
 **Customization:** Delivering a unique, branded user experience that standard layouts cannot provide.
+
+---
+
+# TrailHead Profile
+
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/1ecfe3b9-4b27-41aa-b85f-667ffa21d89a" />
+
