@@ -87,3 +87,11 @@ In an **Event Management System**, data is dynamic and high-volume. Automatic re
 *   **Operational Efficiency:** By automating routine tasks like seat counting and notifications, staff can focus on the event experience rather than data entry.
 
 **Event-driven behavior** allows enterprise systems to be proactive, ensuring accuracy and speed in a fast-paced business environment.
+
+---
+
+# TrailBlazer Profile
+
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/0816feb8-0bf8-4b6e-9f55-41fae2527571" />
+
+
