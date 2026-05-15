@@ -132,7 +132,7 @@ As an Event Management System scales from a local meetup to a global conference,
 
 ---
 
-# TrailHead Profile
+# TrailBlazer Profile
 
 <img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/1ecfe3b9-4b27-41aa-b85f-667ffa21d89a" />
 
