@@ -8,8 +8,6 @@
 
 # Salesforce Development Learning Progress
 
-This document summarizes the key takeaways and specific inquiries gathered from the Salesforce Trailhead modules.
-
 ## 2. Search Solution Basics
 
 *   **One Key Learning:** I discovered that SOSL is the preferred choice for broad text searches across multiple objects simultaneously, especially when the exact location of the data is unknown, whereas SOQL is better for precise data retrieval from specific tables.
