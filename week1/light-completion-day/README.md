@@ -10,25 +10,25 @@
 
 ## 2. Search Solution Basics
 
-*   **One Key Learning:** I discovered that SOSL is the preferred choice for broad text searches across multiple objects simultaneously, especially when the exact location of the data is unknown, whereas SOQL is better for precise data retrieval from specific tables.
+*   **What I Learned:** I learned that if I’m not 100% sure where a piece of data is, SOSL is the best tool because it can search through different objects all at once. SOQL is better when I know exactly which table I’m looking at and just need to pull specific records.
   
-*   **One Doubt:** Beyond keyword matching, what specific "relevance" factors does Salesforce use to determine which record appears at the very top of a search result list?
-
+*   **My Question:** I was wondering how Salesforce actually decides which record shows up at the top of the search results when there are a lot of matches.
+  
 ---
 
-## 3. Agentforce 360 Platform Events Basics
+## 3. Platform Events Basics
 
-*   **One Key Learning:** I learned that event-driven architecture allows for a "publish and subscribe" model that decouples systems, meaning the sender doesn't need to know who is receiving the message to trigger real-time actions.
+*   **What I Learned:** I learned that platform events work on a "publish and subscribe" model. It’s like a broadcast where one system sends a message and others just listen for it. This is really cool because the systems don't have to wait on each other to finish a task.
   
-*   **One Doubt:** In high-volume environments, how does Salesforce prioritize different types of platform events if the system reaches its concurrent processing limits?
+*   **My Question:** What happens if a system gets overloaded with too many events at once?
 
 ---
 
 ## 4. Command-Line Interface (CLI)
 
-*   **One Key Learning:** I learned that every command consists of a utility, flags (to set variables), and arguments (the specific values), providing a much faster and more customizable way to manage Salesforce projects than a standard graphic interface.
+*   **What I Learned:** I realized that most terminal commands follow a simple pattern: the command, a flag (for settings), and an argument (the specific name or file). It’s way faster than clicking through a bunch of menus once you know the shortcuts.
   
-*   **One Doubt:** Since macOS uses Zsh (string-based) and Windows uses PowerShell (object-based), do developers need to format their Salesforce CLI scripts differently to ensure they work on both operating systems?
+*   **My Question:** Since Mac uses Zsh and Windows uses PowerShell, do I have to change my code if I switch between them?
 
 ---
 
