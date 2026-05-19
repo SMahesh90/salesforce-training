@@ -116,4 +116,10 @@ Enterprise software systems are large, complex, and used by many people simultan
 *   **Reliable Deployments:** Features are built in Scratch Orgs and tested in Sandboxes before reaching the live customers.
 *   **Proper Testing:** Automated tests catch errors before they affect real-world revenue.
 
-Tools like **GitHub, Salesforce DX, and the CLI** allow developers to manage enterprise applications professionally, ensuring system stability as the project grows from a small meetup app to a global conference platform.
+---
+
+# Trailblazer Profile 
+
+<img width="1913" height="866" alt="image" src="https://github.com/user-attachments/assets/b5747109-721f-41c8-a763-8ae781bcfeba" />
+
+
