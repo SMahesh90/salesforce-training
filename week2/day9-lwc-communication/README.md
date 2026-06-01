@@ -46,6 +46,11 @@ In this system, components interact using modern LWC communication patterns to e
 5.  **Step 5 – Flow Automation:** A background Salesforce Flow triggers to generate a unique QR code and send an automated confirmation email to the attendee.
 6.  **Step 6 – UI Update:** The LWC receives a success callback, clears the form, and shows a "Booking Successful" Toast message to the user.
 
+## Complete Data Flow
+
+   <img width="827" height="657" alt="image" src="https://github.com/user-attachments/assets/5aa48245-92ad-492b-8cb1-57a36d1aab35" />
+
+
 ## 4. Aura vs LWC
 
 | Feature | Aura Components | Lightning Web Components (LWC) |
