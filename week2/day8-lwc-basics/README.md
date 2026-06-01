@@ -1,4 +1,4 @@
-# Day 8: LWC Basics - Event Management System
+# LWC Basics - Event Management System
 
 ## 1. What is LWC?
 **Lightning Web Components (LWC)** is a modern Salesforce UI framework used to build fast, reusable, and component-based web applications for managing events and attendee experiences.
