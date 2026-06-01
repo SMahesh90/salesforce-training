@@ -15,6 +15,11 @@ Branching logic means the system asks a question and takes a different path base
 *   **Discount Branching:**
     *   **If Student:** The flow asks the user to upload their ID card.
     *   **If Corporate:** The flow asks for a company tax number.
+ 
+## Complete WorkFlow
+
+<img width="691" height="765" alt="image" src="https://github.com/user-attachments/assets/e439eb61-b2fb-4454-8753-7358dd214946" />
+
 
 ## 3. Governance Explanation
 Governance is simply a set of rules to keep the system clean, safe, and easy to fix.
