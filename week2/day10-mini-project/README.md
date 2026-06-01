@@ -40,12 +40,19 @@ The **Event Management System** is a Salesforce-based platform designed to manag
 
 ## 8. Complete Data Flow
 
-graph TD
-    A[LWC Registration Form] --> B[Validation Rules]
-    B --> C[Apex Logic: Dynamic Pricing]
-    C --> D[Database Storage]
-    D --> E[Flow Automation: QR & ID]
-    E --> F[Notifications: Email & Toast]
+Event Ticket Booking
+          ↓
+LWC Screen (Registration Form)
+          ↓
+Validation Rules (Checks Capacity & Dates) 
+          ↓
+Apex Logic (Calculates Dynamic Pricing/Discounts)
+          ↓
+Database Storage (Saves Registration & Attendee Records)
+          ↓
+Flow Automation (Generates QRCode & Ticket ID)
+          ↓
+Notifications (Sends Confirmation Email)
 
 ## 9. Reflection
 
