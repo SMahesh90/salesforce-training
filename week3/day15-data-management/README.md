@@ -2,7 +2,7 @@
 
 This module focuses on the integrity, migration, and maintenance of data within the Event Ticket Booking application. High-quality code (LWC/Apex) is ineffective if the underlying data is compromised.
 
-## ⚠️ Data Quality Problems
+## 1. Data Quality Problems
 
 In an Event Management context, poor data quality often manifests as:
 
@@ -11,7 +11,7 @@ In an Event Management context, poor data quality often manifests as:
 *   **Invalid Reference Data:** Event records linked to non-existent venues or inactive organizers.
 *   **Stale Data:** Registrations that remain in "Pending" status indefinitely due to failed payment triggers, skewing capacity reports.
 
-## 🔄 Migration Discussion
+## 2. Migration Discussion
 
 When migrating legacy event data (e.g., from an old Excel tracker or SQL database) into Salesforce:
 
@@ -22,7 +22,7 @@ When migrating legacy event data (e.g., from an old Excel tracker or SQL databas
     3.  **Registrations:** (Linking Attendees to Events)
 *   **Data Scrubbing:** Before the Insert operation, we must use tools like Excel or OpenRefine to remove "test" records and standardize date formats to ISO-8601.
 
-## 🛡️ Duplicate Prevention Ideas
+## 3. Duplicate Prevention Ideas
 
 To ensure a single attendee doesn't accidentally register five times for the same session:
 
@@ -37,7 +37,7 @@ To ensure a single attendee doesn't accidentally register five times for the sam
     ```
 *   **Unique Keys:** Use a formula field or a text field (populated by Flow) that concatenates `Email + EventID` and set it to **Unique (Case-Insensitive)** at the database level.
 
-## 📉 Enterprise Risks of Bad Data
+## 4. Enterprise Risks of Bad Data
 
 For a large-scale event organization, bad data leads to:
 
@@ -46,7 +46,7 @@ For a large-scale event organization, bad data leads to:
 *   **Reputational Damage:** Sending a QR code for "Event A" to an attendee who registered for "Event B" results in a poor customer experience and brand distrust.
 *   **Compliance Risks:** Failure to accurately track "Opt-in" status for marketing emails can lead to GDPR or CAN-SPAM violations.
 
-## 🧠 Reflection
+## 5. Reflection
 
 Data Management is not a one-time task but a continuous cycle. In building the Event Ticket Booking system, I realized that **Validation Rules** and **Apex Logic** are the "Gatekeepers," but the **Database Schema** is the "Foundation."
 
