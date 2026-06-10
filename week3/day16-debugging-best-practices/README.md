@@ -50,13 +50,13 @@ To maintain system integrity, all developers must follow this 6-step protocol:
 
 1.  **Reproduce the Issue:** Verify the bug in a Sandbox environment.
 
-      Login as Attendee
-              ↓
-      Add Ticket to Cart
-              ↓
-      Apply "EARLY20" Code
-              ↓
-      Observe Error
+Login as Attendee
+      ↓
+Add Ticket to Cart
+      ↓
+Apply "EARLY20" Code
+      ↓
+Observe Error
     
 2.  **Gather Information:** Collect Error IDs, Browser Console logs, and User Profiles.
 3.  **Identify Root Cause:** Analyze Apex code, Flow logic, or Validation Rules.
