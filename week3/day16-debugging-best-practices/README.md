@@ -49,7 +49,15 @@ The **Event Management System** is a mission-critical platform designed to manag
 To maintain system integrity, all developers must follow this 6-step protocol:
 
 1.  **Reproduce the Issue:** Verify the bug in a Sandbox environment.
-    *   *Example:* Login as Attendee → Add Ticket to Cart → Apply "EARLY20" Code → Observe Error.
+
+      Login as Attendee
+              ↓
+      Add Ticket to Cart
+              ↓
+      Apply "EARLY20" Code
+              ↓
+      Observe Error
+    
 2.  **Gather Information:** Collect Error IDs, Browser Console logs, and User Profiles.
 3.  **Identify Root Cause:** Analyze Apex code, Flow logic, or Validation Rules.
 4.  **Test the Fix:** Validate the solution in a dedicated QA Sandbox. **Never test in Production.**
