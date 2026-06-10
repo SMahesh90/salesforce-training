@@ -5,7 +5,7 @@
 
 ---
 
-## 2.AI Agent Use Cases (Event Management System)
+## 2. AI Agent Use Cases (Event Management System)
 
 ### 1. Smart Registration Assistant
 *   **Feature:** Handles ticket bookings, upgrades, and cancellations through chat.
