@@ -1,4 +1,4 @@
-# Day 17: Agentforce and AI in Enterprise Systems
+# Agentforce and AI in Enterprise Systems
 
 ## Agentforce Summary
 **Agentforce** is Salesforce’s autonomous AI platform that goes beyond basic chatbots. It enables organizations to build intelligent agents that understand natural language, retrieve real-time data, and execute business logic (via Flows and Apex) to complete tasks without constant human intervention.
