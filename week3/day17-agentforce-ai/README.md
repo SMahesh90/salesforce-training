@@ -1,11 +1,11 @@
 # Agentforce and AI in Enterprise Systems
 
-## Agentforce Summary
+## 1. Agentforce Summary
 **Agentforce** is Salesforce’s autonomous AI platform that goes beyond basic chatbots. It enables organizations to build intelligent agents that understand natural language, retrieve real-time data, and execute business logic (via Flows and Apex) to complete tasks without constant human intervention.
 
 ---
 
-## AI Agent Use Cases (Event Management System)
+## 2.AI Agent Use Cases (Event Management System)
 
 ### 1. Smart Registration Assistant
 *   **Feature:** Handles ticket bookings, upgrades, and cancellations through chat.
@@ -25,7 +25,7 @@
 
 ---
 
-## AI Workflow Explanation
+## 3. AI Workflow Explanation
 
 ```text
 User Question (e.g., "Am I eligible for a VIP upgrade?")
@@ -41,7 +41,7 @@ Response Generation ("Yes, you qualify! Would you like to upgrade now?")
 Action Execution (Updates record, processes payment, and sends new ticket)
 ```
 
-# Risks and Reflections: Enterprise AI in Event Management
+# 4. Risks and Reflections: Enterprise AI in Event Management
 
 ## Risks of Enterprise AI
 
@@ -57,7 +57,7 @@ Managing AI in an enterprise environment requires strict governance to avoid ope
 
 ---
 
-## Reflection
+## 5. Reflection
 
 ### How will AI change Enterprise Software Development?
 
