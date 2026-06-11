@@ -56,7 +56,7 @@ The system leverages Salesforce CRM, Flow Builder, Apex, Lightning Web Component
 | Reports & Dashboards |
 +----------------------+
 ```
-## 🏗 Data Model & Relationships
+## Data Model & Relationships
 
 ### Core Objects
 - **Job Position**: Stores job details, department, and budget.
@@ -76,7 +76,7 @@ The system leverages Salesforce CRM, Flow Builder, Apex, Lightning Web Component
 
 ---
 
-## ⚙️ Hiring Lifecycle Workflow
+## Hiring Lifecycle Workflow
 
 1. **Candidate Submission**: Applicants use a custom **LWC Application Form**.
 2. **Validation**: System checks email syntax and executes a **6-month duplicate check** for the same role.
@@ -91,7 +91,7 @@ The system leverages Salesforce CRM, Flow Builder, Apex, Lightning Web Component
 
 ---
 
-## ✅ Approval Workflows
+## Approval Workflows
 
 ### 1. Job Requisition Approval
 *   **Path**: Hiring Manager → Dept Head → Finance.
@@ -103,7 +103,7 @@ The system leverages Salesforce CRM, Flow Builder, Apex, Lightning Web Component
 
 ---
 
-## 📊 Reporting & Dashboards
+## Reporting & Dashboards
 
 *   **Recruitment Funnel**: Tracks conversion rates from "Applied" to "Hired" to identify drop-off points.
 *   **Time-to-Hire**: Measures the average speed of the hiring process for optimization.
@@ -112,7 +112,7 @@ The system leverages Salesforce CRM, Flow Builder, Apex, Lightning Web Component
 
 ---
 
-## 🛡 Failure Handling & Scalability
+## Failure Handling & Scalability
 
 ### Error Handling
 | Scenario | Solution |
@@ -129,7 +129,7 @@ The system leverages Salesforce CRM, Flow Builder, Apex, Lightning Web Component
 
 ---
 
-## 💡 Key Learnings & Reflection
+## Key Learnings & Reflection
 
 This architecture highlights that high-stakes business processes require a **"Safety-First"** design:
 
@@ -137,3 +137,13 @@ This architecture highlights that high-stakes business processes require a **"Sa
 2.  **Scalable Automation**: While Flows are ideal for UI logic, **Batch Apex** is non-negotiable for high-volume data imports.
 3.  **Governance**: Approval processes are critical for financial control and legal compliance.
 4.  **UX Design**: Tailoring interfaces (Mobile for Managers, Dashboards for Recruiters) is essential for system adoption.
+
+---
+
+# TrailHead Profile
+
+<img width="1919" height="1078" alt="Screenshot 2026-06-11 133141" src="https://github.com/user-attachments/assets/33ca7c3e-9162-4966-a2c3-036bebb13011" />
+
+<img width="1919" height="1075" alt="Screenshot 2026-06-11 133243" src="https://github.com/user-attachments/assets/063ba0a5-40ce-48e1-856a-c48b897c416f" />
+
+
