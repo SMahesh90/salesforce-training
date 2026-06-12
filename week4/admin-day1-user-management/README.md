@@ -40,5 +40,3 @@ Enterprise systems (like Salesforce) hold a massive amount of private data. We n
 1.  **Safety:** To keep hackers out and prevent employees from seeing things they shouldn't.
 2.  **Accuracy:** If everyone can change everything, the data becomes a mess. Limits keep the data "clean."
 3.  **The Law:** In many jobs (like hospitals or schools), it is illegal to let unauthorized people see private records. 
-
-**Bottom Line:** A good Admin follows the "Rule of Least Privilege"—only give people the access they absolutely need to do their job, and nothing more.
